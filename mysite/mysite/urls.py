@@ -25,5 +25,5 @@ urlpatterns = [
     url(r'^index', views.index),
     url(r'^insert/',views.insert),
     url(r'^show/', views.list),
-    url(r'^itzc/', views.itzc),
+#    url(r'^itzc/', views.itzc),
 ]
